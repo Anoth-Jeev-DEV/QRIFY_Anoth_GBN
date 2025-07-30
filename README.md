@@ -1,4 +1,4 @@
-QRify - QR Code-Based Attendance System
+QRify - QR Code-Based Attendance System_Python_Django_SQlite3
 
 
 QRify is a Django-based QR code attendance tracking system for employees. Each employee is assigned a unique UUID and QR code, which is used to mark their attendance by scanning. The system includes admin login, employee registration, QR code scanning, and rich analytics and reporting features.
